@@ -29,4 +29,6 @@ I started by cleaning and organizing the data in Power Query, then used the data
 - Excel
   ## Dashboard Preview
 
-![Energy Operations Dashboard](picture/energy-operations-powerbi-dashboard.jpeg)
+## Dashboard Preview
+
+![Energy Operations Dashboard](screenshots/energy-operations-powerbi-dashboard.jpeg)
