@@ -28,5 +28,4 @@ I started by cleaning and organizing the data in Power Query, then used the data
 - DAX
 - Excel
   ## Dashboard Preview
-
 ![Energy Operations Dashboard](images/energy-operations-powerbi-dashboard.jpeg)
